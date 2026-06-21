@@ -1,1 +1,1 @@
-# SQL-Data-Analytics-Project
+# SQL Data Analytics Project
